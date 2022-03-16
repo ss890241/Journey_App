@@ -1,9 +1,9 @@
 # Journey_App
 
-這個專案是我們小組六人耗時2個月完成的網站，功能非常齊全，包含了註冊登入、活動、嚮導、社群、社團、聊天室、行事曆...等等功能。
-我是組長，主要負責整體網站的專案架構與功能規劃、進度安排與追蹤、嚮導功能和行事曆功能。
-我們主要使用前端React框架搭配後端Express框架和MySQL資料庫來製作這個大專案。
-以下是詳細的網站介紹！
+	這個專案是我們小組六人耗時2個月完成的網站，功能非常齊全，包含了註冊登入、活動、嚮導、社群、社團、聊天室、行事曆...等等功能。
+	我是組長，主要負責整體網站的專案架構與功能規劃、進度安排與追蹤、嚮導功能和行事曆功能。
+	我們主要使用前端React框架搭配後端Express框架和MySQL資料庫來製作這個大專案。
+	以下是詳細的網站介紹！
 
 *目標客群：熟齡族群。
 
@@ -22,16 +22,16 @@
 8. 個人行事曆：匯集journey上所有嚮導和活動日程，也可直接在行事曆點選，檢視更詳細的嚮導、活動內容，不用再害怕遺漏任何重要日程。
 
 *開發使用技術及工具：
-1. 前端技術
+1. 前端技術：
 React, Sass, Gsap, HTML, CSS, JavaScript
-2. 後端技術
+2. 後端技術：
 Node.js, express.js, socket.io, Firebase Authentication, MySQL
-3. API
+3. API：
 OpenWeatherMap API, Google API
-4. Design	Tools
+4. Design	Tools：
 Adobe	XD, Photoshop, illustrator, Figma
-5. Frame	Work
+5. Frame	Work：
 Ant Design, Bootstrap
-6. 託管平台
+6. 託管平台：
 Heroku
 
